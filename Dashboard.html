@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<!BY JOEL HORENSMA>
+<head>
+<!VIEWPORT SIZING>
+<meta charset="UTF-8" content="initial-scale=1" maximum-scale="1" minimum-scale="1" user-scalable="no" width="device-width" height="device-height" name="viewport">
+<link rel="shortcut icon" href="Images/Eden.jpg">
+<!BEGIN CSS STYLING>
+<style>
+.container {
+position: relative;
+text-align: center;
+color: white;
+}
+.top-left {
+opacity: 0.5;
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 150px;
+left: 10px;
+}
+.second-left {
+opacity: 0.5;
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 425px;
+left: 10px;
+}
+.third-left {
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 700px;
+left: 10px;
+}
+.bottom-left {
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 980px;
+left: 10px;
+}
+.top-right {
+opacity: 0.5;
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 150px;
+right: 16px;
+}
+.second-right {
+opacity: 0.5;
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+  position: absolute;
+  top: 425px;
+  right: 16px;
+}
+.third-right {
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 700px;
+right: 10px;
+}
+.bottom-right {
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 32%;
+height: 175px;
+border: 15px solid lime;
+border-style:groove;
+overflow:hidden;
+position: absolute;
+top: 980px;
+right: 10px;
+}
+.centered {
+border-radius:20px;
+padding:5px;
+box-sizing: content-box;
+width: 400px;
+height: 90px;
+border: 5px solid lime;
+border-style:dashed;
+overflow:hidden;
+position: absolute;
+top: 47%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.countdown {
+color:lime;
+padding-top:5px;
+padding-bottom:20px;
+margin-left:33px;
+position: fixed;
+top: 20px;
+left: 48%;
+transform: translate(-50%, -50%);
+}
+.by {
+opacity: 1;
+color:lime;
+padding-top:10px;
+margin-left:33px;
+position: fixed;
+top: 80px;
+left: 48%;
+transform: translate(-50%, -50%);
+}
+.title {
+opacity: 1;
+color:lime;
+padding-top:1px;
+margin-left:33px;
+position: fixed;
+top: 5px;
+left: 48%;
+transform: translate(-50%, -50%);
+}
+.title2 {
+opacity: 1;
+color:white;
+padding-top:10px;
+margin-left:33px;
+position: fixed;
+top: 30px;
+left: 48%;
+transform: translate(-50%, -50%);
+}
+.title3 {
+opacity: 1;
+color:lime;
+padding-top:10px;
+margin-left:33px;
+position: fixed;
+top: 60px;
+left: 48%;
+transform: translate(-50%, -50%);
+}
+h2 { font-family:"Black Ops One"; 
+font-size: 23px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 700; 
+line-height: 26.4px; 
+}
+h3 { font-family: "Black Ops One"; 
+font-size: 15px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 700; 
+line-height: 15.4px; 
+}
+</style>
+<!END CSS STYLING>
+<!JQUERY API CALL>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Black+Ops+One" />
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<!TITLE>
+<title>Garden Of Eden</title>
+<!CHANGEABLE JS COUNTER>
+<!---<div style="font-size:20px; font-weight:bold;" id='seconds-counter' class=countdown></div>--->
+</head>
+<body style="background-color:black; background-image: url('Images/data.gif'); background-size:100%;">
+<!TOP TITLE OF PAGE>
+<h2 class=title style="text-align:center;color:white" >WELCOME TO</h2>
+<h2 class=title2 style="text-align:center; color:white" >THE GARDEN OF EDEN</h2>
+<h3 class=by style="text-align:center; color:lime" >BY: JOEL HORENSMA</h3>
+<h2 class=title3 style="text-align:center; color:white" >--------------------------------------------------------------------------------------------------------------</h2>
+<!//TOP LEFT//>
+<div class="top-left" style=background-color:green;>
+<a value="Refresh Page" href="" onClick="window.location.href=window.location.href" type=button style="border-style:outset; border-radius:5px; color:lime; float-left; font-family: Black Ops One;">REFRESH</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; font-family: Black Ops One;" href="#" onClick="GeoDetails()" name=button id="GeoDetails">DETAILS</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; float:right; font-family: Black Ops One;" href="#" onClick="device()" name=button id="device">WIPE</a>
+<h3 id="" style="color:lime; text-align:center;" contenteditable="true">DEVICE INFO & IP<embed style=margin-top:40px; class=centered src="php/device.php"></h3>
+</div>
+<!//SECOND LEFT//>
+<div class="second-left" style=background-color:green;>
+<a value="Refresh Page" href="" onClick="window.location.href=window.location.href" type=button style="border-style:outset; border-radius:5px; color:lime; float-left; font-family: Black Ops One;">REFRESH</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; font-family: Black Ops One;" href="#" onClick="GeoDetails()" name=button id="GeoDetails">DETAILS</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; float:right; font-family: Black Ops One;" href="#" onClick="pass()" name=button id="pass">WIPE</a>
+<h3 id="" style="color:lime; text-align:center;" contenteditable="true">USERNAME & PASSWORD<embed style=margin-top:40px; class=centered src="php/pass.php"></h3>
+</div> 
+<!//TOP RIGHT//>
+<div class="top-right" style=background-color:green;>
+<a value="Refresh Page" href="" onClick="window.location.href=window.location.href" type=button style="border-style:outset; border-radius:5px; color:lime; float-left; font-family: Black Ops One;">REFRESH</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; font-family: Black Ops One;" href="#" onClick="GeoDetails()" name=button id="GeoDetails">DETAILS</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; float:right; font-family: Black Ops One;" href="#" onClick="geo()" name=button id="geo">WIPE</a>
+<h3 id="" style="color:lime; text-align:center; font-family: Black Ops One;" contenteditable="true">LATITUDE & LONGITUDE<embed style=margin-top:40px; class=centered src="php/geo.php"></h3>
+</div>
+<!SECOND RIGHT>
+<div class="second-right" style=background-color:green;>
+<a value="Refresh Page" href="" onClick="window.location.href=window.location.href" type=button style="border-style:outset; border-radius:5px; color:lime; float-left; font-family: Black Ops One">REFRESH</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; font-family: Black Ops One;" href="#" onClick="GeoDetails()" name=button id="GeoDetails">DETAILS</a><a type=button style="border-style:outset; border-radius:5px; background-color: green; color:lime; float:right; font-family: Black Ops One;" href="#" onClick="ApproxLoc()" name=button id="ApproxLoc">WIPE</a>
+<h3 id="" style="color:lime; text-align:center;" contenteditable="true">CITY & PROVINCE<embed style=margin-top:40px; class=centered src="php/ApproxLoc.php"></h3>
+</div>
+<!SCRIPTS BEGIN>
+<!CHANGEABLE | SECONDS COUNTER, UNCOMMENT BELOW TO USE AND UNCOMMENT THE class="countdown" div ABOVE>
+<!---<script>
+var seconds = 4;
+var el = document.getElementById('seconds-counter');
+function incrementSeconds() {
+seconds -= 1;
+el.innerText = "UPDATING IN " + seconds + " seconds.";
+}
+var cancel = setInterval(incrementSeconds, 1000);
+</script>--->
+<script type="text/javascript">
+var btn = document.getElementById('device');
+function device() { 
+alert("WIPE DEVICE DATA IN CONSOLE?");
+document.location.href = "php/WipeDevice.php";
+};
+
+var btn = document.getElementById('geo');
+function geo() { 
+alert("WIPE LAT & LONG DATA IN CONSOLE?");
+document.location.href = "php/WipeGeo.php";
+};
+
+var btn = document.getElementById('pass');
+function pass() { 
+alert("WIPE PASSWORD DATA IN CONSOLE?");
+document.location.href = "php/WipePass.php";
+};
+
+var btn = document.getElementById('ApproxLoc');
+function ApproxLoc() { 
+alert("WIPE APPROX CITY AND PROVINCE DATA IN COLSOLE?");
+document.location.href = "php/WipeApproxLoc.php";
+};
+
+var btn = document.getElementById('GeoDetails');
+function GeoDetails() { 
+alert("DETAILS");
+};
+//ADD MORE GeoDetails JS SECTIONS TO GIVE THEM THEIR OWN ALERTS THEN CHANGE THE DIVS ACCORDINGLY (IDS AND onClick() ATTRIBUTES//
+</script>
+<!CHANGEABLE | UNCOMMENT BELOW FOR LIVE UPDATING WITHOUT REFRESH, NOTE: THIS MAKES CLICKING THINGS BUGGY>
+<!---<script>
+setTimeout(function(timeoutFunction){
+window.location.reload(1);
+}, 4000);
+</script>--->
+<!END SCRIPTS>
+</body>
+</html> 
+
+
