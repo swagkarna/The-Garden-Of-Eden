@@ -50,7 +50,7 @@ unzip /var/www/html/The-Garden-Of-Eden/NGROK/ngrok-stable-linux-amd64.zip`
 **7.) Give Read And Write Permissions For The TXT Files
 In The Folder "/php/txt":**
 `cd /var/www/html/The-Garden-Of-Eden/php/txt &&
-chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt && chmod 777 device.txt && chmod a+rwx geo.txt && chmod 777 geo.txt && chmod a+rwx pass.txt && chmod 777 pass.txt`
+chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt && chmod 777 device.txt && chmod a+rwx pass.txt && chmod 777 pass.txt`
 #
 ## USAGE:
 #
