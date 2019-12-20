@@ -1,13 +1,9 @@
-# The-Garden-Of-Eden 
+# The-Garden-Of-Eden
 *A UNIQUE PHISHING PROGRAM FOR DEMONSTRATING HOW DATA CAN BE CAPTURED. I’VE LEFT OUT SOME PARTS. THE ONLY WORKING PART IS THE USER AND PASS EXTRACTION SECTION, AS THESE TYPES OF PAGES ARE COMMON GROUND, BUT ENJOY THIS UNIQUE SET FOR DEMONSTRATION PURPOSES, OF COURSE! :)*
 #
 *TO DO:*
 #
-- ADD INSTAGRAM PAGE
-#
 - ADD INSTAGRAM IMAGE
-#
--
 #
 **PLEASE USE RESPONSIBLY! MORE TO COME.**
 #
@@ -68,7 +64,7 @@ chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt &
 #
 **3.) Click On The "The-Garden-Of-Eden" Directory, Then, Click "Dashboard.html"**
 #
-**4.) Now You'll Have The Garden Of Eden Main Page Open, In Your Browser, Change The Part Of The URL That Says “var/www/HTML To 127.0.0.1 **
+**4.) Now You'll Have The Garden Of Eden Main Page Open, In Your Browser. Change The Part Of The URL That Says “var/www/HTML To 127.0.0.1 **
 #
 **5.) Send A Link Replacing "YOUR_NGROK_LINK" With Your Unique Link (Highlighted In The Image Above)**
 #
