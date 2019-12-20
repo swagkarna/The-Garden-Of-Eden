@@ -64,7 +64,7 @@ chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt &
 #
 **3.) Click On The "The-Garden-Of-Eden" Directory, Then, Click "Dashboard.html"**
 #
-**4.) Now You'll Have The Garden Of Eden Main Page Open, In Your Browser. Change The Part Of The URL That Says “var/www/HTML To 127.0.0.1 **
+**4.) Now You'll Have The Garden Of Eden Main Page Open, In Your Browser. Change The Part Of The URL That Says “var/www/html To 127.0.0.1 **
 #
 **5.) Send A Link Replacing "YOUR_NGROK_LINK" With Your Unique Link (Highlighted In The Image Above)**
 #
