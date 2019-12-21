@@ -70,7 +70,7 @@ chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt &
 #
 -SC: `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Snapchat_Phisher/snapchat.html`
 #
-# Real One (Top) Link (Bottom)
+# Real One (Top) Server Link (Bottom)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/SnapchatLink.png)
 #
 -FB Messenger: `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Snapchat_Phisher/messenger`
