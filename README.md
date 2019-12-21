@@ -80,12 +80,12 @@ chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt &
 # INSTAGRAM:
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Instagram_Phisher/instagram.html`
 # Real One (Bottom) Server Link (Top)
-![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/InstaLink.png)
+![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/InstagramLink.png)
 #
 # GOOGLE:
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Google_Phisher/google.html`
 # Real One (Bottom) Server Link (Top)
-![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Google_Link.png)
+![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/GoogleLink.png)
 #
 # OUTLOOK:
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Outlook_Phisher/outlook.html` 
