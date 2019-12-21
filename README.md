@@ -25,8 +25,8 @@ git clone https://github.com/Joel-Horensma/The-Garden-Of-Eden.git`
 #
 **3.) Setup An NGROK Account, Here: https://ngrok.com/download**
 #
-**4.) Install unzip And wget $:**
-`sudo apt-get install unzip wget`
+**4.) Install unzip And wget**
+**$:**`sudo apt-get install unzip wget`
 #
 **5.) Download NGROK:**
 #
