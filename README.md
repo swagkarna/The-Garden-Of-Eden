@@ -15,9 +15,8 @@
 #
 ## (KALI LINUX) INSTALL AND SETUP:
 #
-**1.) Install Dependencies 
-$:** 
-`apt-get update &&
+**1.) Install Dependencies ** 
+**$:**`apt-get update &&
 apt-get install apache2 php*`
 #
 **2.) Download The Repository $:**
