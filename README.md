@@ -1,6 +1,6 @@
 # The-Garden-Of-Eden
 #
-**THIS IS FOR DEMONSTRATION PUROSES, PLEASE USE RESPONSIBLY. MORE TO COME !!!! :)**
+**THIS REPOSITORY IS MEANT FOR DEMONSTRATION PUROSES, PLEASE USE RESPONSIBLY. MORE TO COME !!!! :)**
 #
 # Main Page (YOUR END):
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Eden.png)
