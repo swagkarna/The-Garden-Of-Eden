@@ -15,17 +15,17 @@
 #
 ## (KALI LINUX) INSTALL AND SETUP:
 #
-**1.) Install Dependencies:** 
+**1.) Install Dependencies:$** 
 `apt-get update &&
 apt-get install apache2 php*`
 #
-**2.) Download The Repository:**
+**2.) Download The Repository:$**
 `cd /var/www/html &&
 git clone https://github.com/Joel-Horensma/The-Garden-Of-Eden.git`
 #
 **3.) Setup An NGROK Account, Here: https://ngrok.com/download**
 #
-**4.) Install unzip And wget:**
+**4.) Install unzip And wget:$**
 `sudo apt-get install unzip wget`
 #
 **5.) Download NGROK:**
