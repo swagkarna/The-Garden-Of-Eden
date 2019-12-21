@@ -2,11 +2,11 @@
 #
 **PLEASE USE RESPONSIBLY. MORE TO COME!!!!**
 #
-# Main Page:
+# Main Page (YOUR END):
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Eden.png)
 # After A Successful Capture:
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Eden_2.png)
-# Phishing Pages:
+# Phishing Pages (CLIENT END):
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Snapchat.png)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Messenger.png)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Instagram.png)
