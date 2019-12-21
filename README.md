@@ -22,8 +22,7 @@
 #
 **1.) Install Dependencies:** 
 `apt-get update &&
-apt-get install apache2 &&
-apt-get install php*`
+apt-get install apache2 php*`
 #
 **2.) Download The Repository:**
 `cd /var/www/html &&
