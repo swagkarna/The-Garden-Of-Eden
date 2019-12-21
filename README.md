@@ -1,6 +1,6 @@
 # The-Garden-Of-Eden
 #
-**PLEASE USE RESPONSIBLY. MORE TO COME!!!! **
+**PLEASE USE RESPONSIBLY. MORE TO COME!!!!**
 #
 # Main Page:
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/Eden.png)
